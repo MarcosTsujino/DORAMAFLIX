@@ -11,3 +11,6 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
   <li>CSS</li>
   <li>Javascript</li>
 </ul>
+
+# O que foi realizado:
+Recrie a interface da Netflix porém com um catálogo somente de séries coreanas.
