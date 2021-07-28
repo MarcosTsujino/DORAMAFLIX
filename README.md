@@ -9,4 +9,5 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Javascript</li>
 </ul>
